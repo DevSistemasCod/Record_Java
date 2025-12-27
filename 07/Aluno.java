@@ -1,0 +1,1 @@
+public record Aluno(String nome, double nota) { }
